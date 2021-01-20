@@ -34,13 +34,13 @@
 
 
 
-- 🔭 I’m currently working on [Full Stack Development](https://frontier.xyz/).
+- 🔭 I’m currently working on : Advanced Java Concepts.
 - 🌱 I’m currently learning more about Full Stack Development.
-- 👯 I’m looking to collaborate on [upGrad](https://www.upgrad.com/applications).
+- 👯 I’m looking to collaborate  with my fellow peers on Side Projects.
 - 💬 Ask me about something in this page or any tech related stuff.
-- 📫 How to reach me: [Twitter - @Rajkuma74663795](https://twitter.com/Rajkuma74663795) ,
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 5 hours everyday.
+- 📫 How to reach me: [Twitter - @Rajkuma74663795](https://twitter.com/Rajkuma74663795) ,Mobile : +91-8240239936
+- 😄 Hobbies: Avid Musician,Chanting(Hare-Krishna) & Food Lover & Read Articles.
+- ⚡ Fun fact: I spend almost 10 hours everyday listening to music while studying .
 
 [![Twitter: Rajkumar Das](https://img.shields.io/twitter/follow/Rajkumar?style=social)](https://twitter.com/Rajkuma74663795)
 [![Linkedin: Rajkumar Das](https://img.shields.io/badge/-Rajkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajkumar-das-7220aa16a/)](https://www.linkedin.com/in/rajkumar-das-7220aa16a/)
@@ -48,14 +48,20 @@
 
 
 
-**This all language I know:**  
+**Languages and Tools:**
 
 
 <code><a href=""><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/java-23-225999.png"></a></code>
 <code><a href=""><img height="20" src="https://juststickers.in/wp-content/uploads/2014/05/CSS3-Mark-Shape-Cut.png"></a></code>
 <code><a href=""><img height="20" src="https://i.redd.it/mg65eyrw62g21.png"></a></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-
+<a href="https://github.com/Rajkumar-cloud-web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkumar-cloud&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Rajkumar-cloud-web">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajkumar-cloud&show_icons=true&theme=dark&line_height=27" alt="Stats"/>
+</a>
 
 
 
