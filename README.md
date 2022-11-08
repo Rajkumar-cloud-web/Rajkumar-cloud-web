@@ -34,11 +34,11 @@
 
 
 
-- 🔭 I’m currently working on : SapphireIMS(As a Role of Software Engineer).
-- 🌱 I’m currently learning more about Full Stack Development.
+- 🔭 I’m currently working on : Tech Mahindra Associate Role.
+- 🌱 I’m currently learning more about Business Development and Processes.
 - 👯 I’m looking to collaborate  with my fellow peers on Side Projects.
 - 💬 Ask me about something in this page or any tech related stuff.
-- 📫 How to reach me: [Twitter - @Rajkuma74663795](https://twitter.com/Rajkuma74663795) ,Mobile : +91-8240239936
+- 📫 How to reach me: [Twitter - @Rajkuma74663795](https://twitter.com/Rajkuma74663795) ,Mobile : +91-7980043807 / 8240239936
 - 😄 Hobbies: Avid Musician,Chanting(Hare-Krishna) & Food Lover & Read Articles.
 - ⚡ Fun fact: I spend almost 10 hours everyday listening to music while studying .
 
